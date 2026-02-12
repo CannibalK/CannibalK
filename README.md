@@ -2,9 +2,10 @@
   <h2>Damian Alexander Barrera</h2>
   <h3>Técnico en Telecomunicaciones, Ciberseguridad y Programación</h3>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Ciberseguridad;Experto+en+Ruby%2C+Python+%26+PHP;Infraestructura+con+Docker+%26+Linux" alt="Typing SVG" />
-  </a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Ciberseguridad;Experto+en+Ruby%2C+Python+%26+PHP;Infraestructura+con+Docker+%26+Linux">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Ciberseguridad;Experto+en+Ruby%2C+Python+%26+PHP;Infraestructura+con+Docker+%26+Linux">
+  </picture>
 </div>
 
 <br/>
